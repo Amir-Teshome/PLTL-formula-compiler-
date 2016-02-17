@@ -1,6 +1,8 @@
 # PLTL-formula-compiler-
 
-This project was done as a proof of concept for the work described in [this paper](https://hal.inria.fr/hal-00916882).
+This project was done as a proof of concept for the work described in [this paper](https://hal.inria.fr/hal-00916882)
+
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 The detailed functionalities of the code is described in [this paper](https://www.dropbox.com/s/rg0jhyeya67req8/report.pdf?dl=0).
 
